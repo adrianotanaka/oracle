@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Dicas Oracle
 tagline:          Oracle
 url:              http://tanakaa.github.io/oracle/
-paginate:         1
+paginate:         5
 baseurl:          http://tanakaa.github.io/oracle/
 author:
   name:           Mark Otto
