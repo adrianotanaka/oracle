@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Dicas Oracle
-tagline:          - 
+tagline:          Oracle
 url:              http://tanakaa.github.io/oracle
 paginate:         1
 baseurl:          /
