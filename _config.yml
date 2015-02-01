@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Dicas Oracle
 tagline:          Oracle
-url:              http://tanakaa.github.io/oracle
+url:              http://tanakaa.github.io/oracle/
 paginate:         1
 baseurl:          http://tanakaa.github.io/oracle/
 author:
@@ -16,4 +16,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/tanakaa/oracle
+  repo:           https://github.com/tanakaa/oracle/
