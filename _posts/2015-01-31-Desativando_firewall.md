@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Desativando o firewall no Oracle Linux
 ---
 
 Desativando firewall
