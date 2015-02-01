@@ -7,7 +7,7 @@ title:            Dicas Oracle
 tagline:          Oracle
 url:              http://tanakaa.github.io/oracle
 paginate:         1
-baseurl:          /
+baseurl:          http://tanakaa.github.io/oracle
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
